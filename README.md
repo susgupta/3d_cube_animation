@@ -1,6 +1,6 @@
 # Sushil G 3D CSS Photo Cube
 
-Sushil G 3D CSS Photo Cube is an example showcasing **CSS animation properties**. No JavaScript is used. All the animation is **pure **CSS\*\*.
+Sushil G 3D CSS Photo Cube is an example showcasing **CSS animation properties**. No JavaScript is used. All the animation is **pure CSS**.
 
 ## Technologies Used
 
